@@ -4,14 +4,13 @@
 
 /* Place this rule in the image tag */
 .logo-image {
-  width: min(35vw, 262px);
-  margin-left: 3.5rem;
+  width: min(25vw, 187px);
 }
 
 /* Containers */
 .container {
   /* This gives 10% top, 15% left and right, and 10% bottom padding */
-  padding: 15% 15%;
+  padding: 10% 15%;
 }
 
 
