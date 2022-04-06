@@ -1,0 +1,8 @@
+/* Element Selectors */
+
+/* Nav Section Selectors */
+
+/* Place this rule in the image tag */
+.logo-image {
+  width: min(35vw, 262px);  
+}
