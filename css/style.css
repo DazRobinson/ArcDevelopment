@@ -4,3 +4,10 @@
 .logo-image {
   width: min(30vw, 200px);
 }
+
+
+/* COLOURS */
+
+.bg-gray {
+  background-color: #D3DEDC;
+}
