@@ -2,5 +2,5 @@
 
 /* Place this rule in the image tag */
 .logo-image {
-  width: min(30vw, 187px);
+  width: min(30vw, 200px);
 }
