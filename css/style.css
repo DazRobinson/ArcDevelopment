@@ -1,0 +1,6 @@
+/* NAV SECTION*/
+
+/* Place this rule in the image tag */
+.logo-image {
+  width: min(30vw, 187px);
+}
